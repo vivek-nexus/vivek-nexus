@@ -22,7 +22,7 @@ List(z)en to articles — just like a podcast!
 ## 3. [Hugo static site generation template](https://github.com/yakshaG/hugo-ejnana)
 Ready to host content framework for sharing information — UI designed for vernacular content.
 
-and some more
+and some more below 👇
 
 
 
