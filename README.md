@@ -12,9 +12,9 @@ My [website](https://yakshag.github.io/) should give you a well rounded picture,
 I make stuff work, even if I am not doing it in the best possible way 🤷‍♂️
 
 ## 1. [GMeet-Slack](https://github.com/yakshaG/gmeet-slack-extension)
-Improve workplace communication with GMeet Slack! 
+Improve workplace communication with GMeet-Slack! 
 
-GMeet Slack automatically updates your slack status, when you join and exit meetings, even for unscheduled meetings or overflowing meetings.
+GMeet-Slack automatically updates your slack status, when you join and exit meetings, even for unscheduled meetings or overflowing meetings.
 
 ## 2. [Lizen](https://github.com/yakshaG/lizen/tree/new-ui)
 List(z)en to articles — just like a podcast!
@@ -22,7 +22,7 @@ List(z)en to articles — just like a podcast!
 ## 3. [Hugo static site generation template](https://github.com/yakshaG/hugo-ejnana)
 Ready to host content framework for sharing information — UI designed for vernacular content.
 
-and some more below 👇
+[and some more](https://github.com/yakshaG?tab=repositories)
 
 
 
