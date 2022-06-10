@@ -1,4 +1,4 @@
-<h1>Hello! <img src="https://user-images.githubusercontent.com/26523871/158065125-7df0b994-7924-4852-865d-ccb96a14cfed.gif" width="30px"> I'm Vivek G!</h1>
+<h1>Hello👋 I'm Vivek G 👀</h1>
 
 #### I am half developer, half designer and everything tech in between!
 
