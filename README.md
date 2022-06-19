@@ -16,7 +16,7 @@ Improve workplace communication with Google Meet ⇔ Slack!
 
 Google Meet ⇔ Slack automatically updates your slack status, when you join and exit meetings, even for unscheduled meetings or overflowing meetings.
 
-## 2. [Lizen](https://github.com/yakshaG/lizen/tree/new-ui)
+## 2. [Lizen](https://github.com/yakshaG/lizen)
 List(z)en to articles — just like a podcast!
 
 ## 3. [Hugo static site generation template](https://github.com/yakshaG/hugo-ejnana)
