@@ -12,7 +12,7 @@ My [website](https://yakshag.github.io/) should give you a well rounded picture,
 I make stuff work, even if I am not doing it in the best possible way 🤷‍♂️
 
 ## 1. [Google Meet ⇔ Slack integration](https://github.com/yakshaG/gmeet-slack-extension)
-Improve workplace communication with Google Meet ⇔ Slack! 
+Improve workplace communication by connecting Google Meet with Slack! 
 
 Google Meet ⇔ Slack automatically updates your slack status, when you join and exit meetings, even for unscheduled meetings or overflowing meetings.
 
