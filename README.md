@@ -2,7 +2,7 @@
 
 #### I am half developer, full designer and everything tech in between!
 
-My [website](https://yakshag.github.io/) should give you a well rounded picture, but who cares, right?
+My [website](https://vivek-nexus.github.io/) should give you a well rounded picture, but who cares, right?
 
 
 <br>
