@@ -18,7 +18,7 @@ I make stuff work, even if I am not doing it in the best possible way 🤷‍♂
 - [TranscripTonic](https://github.com/vivek-nexus/transcriptonic)
 - [Easy Blur](https://github.com/vivek-nexus/easy-blur)
 
-### Responsive web app
+### Responsive web app (~200 hits a day)
 [Listen](https://github.com/vivek-nexus/listen)
 
 ### 2 Figma plugins (500+ users)
