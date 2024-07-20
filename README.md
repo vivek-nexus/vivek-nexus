@@ -13,13 +13,13 @@ I make stuff work, even if I am not doing it in the best possible way 🤷‍♂
 
 ## My prominent projects
 
+### Responsive web app (~200 hits a day)
+[Listen](https://github.com/vivek-nexus/listen)
+
 ### 3 Chrome extensions (800+ users)
 - [Google Meet ⇔ Slack integration](https://github.com/vivek-nexus/google-meet-slack-integration)
 - [TranscripTonic](https://github.com/vivek-nexus/transcriptonic)
 - [Easy Blur](https://github.com/vivek-nexus/easy-blur)
-
-### Responsive web app (~200 hits a day)
-[Listen](https://github.com/vivek-nexus/listen)
 
 ### 2 Figma plugins (800+ users)
 - [Variables ⇔ CSV (Export + Import)](https://github.com/vivek-nexus/variables-csv-figma-plugin)
