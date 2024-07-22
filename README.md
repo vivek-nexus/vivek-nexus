@@ -2,17 +2,13 @@
 
 #### I am half developer, full designer and everything tech in between!
 
-My [website](https://vivek-nexus.github.io/) should give you a well rounded picture, but who cares, right?
+My [website](https://vivek-nexus.github.io/) should give you a well rounded picture.
 
 
 <br>
 <br>
 
 # Developer me
-I make stuff work, even if I am not doing it in the best possible way 🤷‍♂️
-
-## My prominent projects
-
 ### Responsive web app (~200 hits a day)
 [Listen](https://github.com/vivek-nexus/listen)
 
@@ -26,7 +22,6 @@ I make stuff work, even if I am not doing it in the best possible way 🤷‍♂
 - [Variables Inspector](https://github.com/vivek-nexus/variables-inspector-figma-plugin)
 
 
-### Desktop app
+### Cross platform desktop app
 [Slack on Keys](https://github.com/vivek-nexus/slack-on-keys)
-
 
