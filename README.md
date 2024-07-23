@@ -1,6 +1,6 @@
 <h1>Hello👋 I'm Vivek G 👀</h1>
 
-#### I am half developer, full designer and everything tech in between!
+#### I am front-end developer, product designer and everything tech in between!
 
 My [website](https://vivek-nexus.github.io/) should give you a well rounded picture.
 
