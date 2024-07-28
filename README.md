@@ -17,7 +17,7 @@ My [website](https://vivek-nexus.github.io/) should give you a well rounded pict
 - [TranscripTonic](https://github.com/vivek-nexus/transcriptonic)
 - [Easy Blur](https://github.com/vivek-nexus/easy-blur)
 
-### 2 Figma plugins (800+ users)
+### 2 Figma plugins (1000+ users)
 - [Variables ⇔ CSV (Export + Import)](https://github.com/vivek-nexus/variables-csv-figma-plugin)
 - [Variables Inspector](https://github.com/vivek-nexus/variables-inspector-figma-plugin)
 
